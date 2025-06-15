@@ -35,10 +35,13 @@ This project is a **grid-based route planner** that finds the shortest path betw
 ```bash
 git clone https://github.com/your-username/dynamic-route-planner.git
 cd dynamic-route-planner
+```
 
- 2. Install dependencies:
+###2. Install dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 
 
